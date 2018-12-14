@@ -1,0 +1,181 @@
+body{
+	text-align: center;
+	color: #fff;
+	background: grey;
+	font-family: cambria;
+	background-image:url(../image/B.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed
+}
+
+.title{
+	background: black;
+	color: white;
+	margin: 5px;
+	padding: 10px;
+	text-align:	center;
+	list-style: none;
+	border: 5px white solid;
+	text-align: center;
+	background-image:url(../image/w.jpg);
+	background-position: center;
+	
+}
+
+.main-header{
+	background: white;
+	color: red;
+	padding: 200px;
+	border-radius: 1%;
+	background-image:url(../image/1.jpg);
+	background-position: center;
+	border: 5px white solid;
+	text-align: center;
+}
+
+.info{
+	background: black;
+    color: white;
+	padding: 10px;
+	margin: 1px ;
+	border-radius: 5%;
+	border: 5px white solid;
+	background-image:url(../image/b2.jpg);
+	background-position: center;
+	
+}
+
+#news {
+	margin: 5px;
+	padding: 10px;
+	text-align:	center;
+	list-style: none;
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(3,1fr);
+	grid-template-row: repeat(3,1fr);
+	
+}
+
+.f1{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	border-radius: 5%;
+	grid-column: 1/2;
+	grid-row: 1/2;
+	border: 5px white solid;
+	border-radius: 1%;
+	background-image:url(../image/.jpg);
+	background-position: center;
+}
+
+.tt{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px;
+	grid-column: 2/3;
+	grid-row: 1/2;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.fernando{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 3/4;
+	grid-row: 1/2;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.andrew{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 1/2;
+	grid-row: 2/3;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.f3{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 2/3;
+	grid-row: 2/3;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.hamilton {
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 3/4;
+	grid-row: 2/3;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.firstN{
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 1/2;
+	grid-row: 3/4;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.supercar {
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 2/3;
+	grid-row: 3/4;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.ricciardo {
+	background: black;
+    color: white;
+	padding: 5px;
+	margin: 1px ;
+	grid-column: 3/4;
+	grid-row: 3/4;
+	border: 5px white solid;
+	border-radius: 1%;
+}
+
+.info2 {
+	background: black;
+	padding: 50px;
+	border: 5px white solid;
+	border-radius: 1%;
+	background-image:url(../image/qwety.jpg);
+	background-position: center;
+	color: black;
+}
+
+.last{
+	background: black;
+	padding: 10px;
+	border: 5px white solid;
+	border-radius: 1%;
+	background-image:url(../image/w.jpg);
+	background-position: center;
+	text-align: left;
+}
